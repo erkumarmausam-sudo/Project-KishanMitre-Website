@@ -78,3 +78,256 @@ Our team worked together across:
 🐞 Error Identification & Fixing
    ↓
 🚀 Final Prototype
+
+
+<div align="center">
+
+# 👥 Team & Contributions
+
+### 🌾 KishanMitre — Smart India Hackathon (SIH)
+
+<p>
+  <b>A Collaborative Team Project</b>
+  <br>
+  <i>Innovation • Research • Development • Coordination • Problem Solving</i>
+</p>
+
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-SIH-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Project-KishanMitre-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Team-6%20Members-blue?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🤝 About Our Team
+
+KishanMitre was developed as a **collaborative team project for the Smart India Hackathon (SIH)**.
+
+The project involved collective efforts across:
+
+<p align="center">
+
+💡 **Ideation** &nbsp; • &nbsp;
+🔎 **Research** &nbsp; • &nbsp;
+🖥️ **Development** &nbsp; • &nbsp;
+📊 **Analysis** &nbsp; • &nbsp;
+🎨 **Presentation** &nbsp; • &nbsp;
+🧪 **Testing** &nbsp; • &nbsp;
+🐞 **Error Fixing** &nbsp; • &nbsp;
+🤝 **Coordination**
+
+</p>
+
+Each member contributed a specific skill set that helped transform the initial concept into a **functional agricultural market-intelligence platform** designed to help farmers make smarter decisions about **crop prices, mandi selection, market trends, forecasting, and net returns**. 🌾🚜
+
+---
+
+# 🏆 Team Members
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>👨‍💻 Mausam Kumar</h2>
+
+<p>
+<b>🏆 Team Leader</b><br>
+<b>🔄 Workflow Coordinator</b><br>
+<b>💻 Website Developer</b>
+</p>
+
+<hr>
+
+<p>
+Led the overall project workflow and coordinated team activities throughout the development process.
+</p>
+
+<ul>
+<li>🖥️ Developed the website</li>
+<li>🔄 Designed the complete working process</li>
+<li>🤝 Coordinated project execution</li>
+<li>🧠 Worked on proposed solutions</li>
+<li>🛠️ Contributed to problem-solving</li>
+<li>🚀 Coordinated technical implementation</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>💡 Harsh Partap Singh Rajawat</h2>
+
+<p>
+<b>💡 Main Idea Contributor</b><br>
+<b>🤝 Team Coordinator</b><br>
+<b>🛠️ Problem Solver</b>
+</p>
+
+<hr>
+
+<p>
+Contributed the main project idea and supported the team throughout the development and coordination process.
+</p>
+
+<ul>
+<li>💡 Contributed the main project idea</li>
+<li>🤝 Coordinated with team members</li>
+<li>🧠 Helped structure the project concept</li>
+<li>🛠️ Helped solve project-related problems</li>
+<li>🐞 Identified and helped fix errors</li>
+<li>🔄 Supported overall team coordination</li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h2>🎨 Mishti Gupta</h2>
+
+<p>
+<b>🎨 PPT Maker</b><br>
+<b>📊 Presentation Contributor</b>
+</p>
+
+<hr>
+
+<p>
+Responsible for preparing and designing the project's presentation and helping communicate the solution effectively.
+</p>
+
+<ul>
+<li>📑 Designed the project PPT</li>
+<li>🎨 Prepared presentation content</li>
+<li>📊 Organized project information</li>
+<li>💡 Presented the project concept</li>
+<li>🧩 Structured features and solutions</li>
+<li>📝 Supported project documentation</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>👩‍💻 Manya Gupta</h2>
+
+<p>
+<b>🔎 Website Researcher</b><br>
+<b>🌐 Website Coordinator</b>
+</p>
+
+<hr>
+
+<p>
+Contributed to website research, planning, coordination, and organization during project development.
+</p>
+
+<ul>
+<li>🔎 Conducted website research</li>
+<li>🌐 Supported website planning</li>
+<li>🤝 Assisted website coordination</li>
+<li>📝 Helped organize website content</li>
+<li>🖥️ Supported development activities</li>
+<li>🔄 Contributed to project workflow</li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h2>📚 Gaurav Saha</h2>
+
+<p>
+<b>🔎 Content Researcher</b><br>
+<b>📋 Details Provider</b>
+</p>
+
+<hr>
+
+<p>
+Supported the project through research, information gathering, and providing important details required for development.
+</p>
+
+<ul>
+<li>🔎 Conducted content research</li>
+<li>📚 Gathered relevant information</li>
+<li>📋 Provided important project details</li>
+<li>📝 Supported content development</li>
+<li>💡 Contributed useful resources</li>
+<li>📊 Helped improve project documentation</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🔍 Harsh Negi</h2>
+
+<p>
+<b>🔎 Content Researcher</b><br>
+<b>🐞 Error Finder</b>
+</p>
+
+<hr>
+
+<p>
+Focused on content research, information verification, error identification, and improving the overall quality of the project.
+</p>
+
+<ul>
+<li>🔎 Researched project content</li>
+<li>✅ Verified information</li>
+<li>🐞 Identified errors</li>
+<li>🛠️ Helped fix inconsistencies</li>
+<li>📈 Improved content accuracy</li>
+<li>🧪 Supported testing and quality improvement</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Team Collaboration
+
+<div align="center">
+
+### 🚀 From Idea to Working Prototype
+
+```text
+                         💡 MAIN IDEA
+                              │
+                              ▼
+                        🔎 RESEARCH
+                              │
+                              ▼
+                    🧠 SOLUTION PLANNING
+                              │
+                              ▼
+                    🖥️ WEBSITE DEVELOPMENT
+                              │
+               ┌──────────────┼──────────────┐
+               ▼              ▼              ▼
+           📊 ANALYSIS     📝 CONTENT      🎨 PPT
+               │              │              │
+               └──────────────┼──────────────┘
+                              │
+                              ▼
+                         🧪 TESTING
+                              │
+                              ▼
+                      🐞 ERROR FINDING
+                              │
+                              ▼
+                       🛠️ ERROR FIXING
+                              │
+                              ▼
+                       🤝 COORDINATION
+                              │
+                              ▼
+                    🚀 FINAL SIH PROJECT
