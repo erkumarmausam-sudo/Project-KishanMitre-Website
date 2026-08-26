@@ -58,7 +58,7 @@ The project addresses a real-world agricultural challenge:
 
 Our team worked together across:
 
-```text
+
 💡 Ideation
    ↓
 🔎 Research
