@@ -195,3 +195,18 @@ Testing & Quality Improvement</sub>
 </i>
 
 </div>
+
+<div align="center">
+⭐ If you find this project helpful, please consider giving it a star! ⭐
+
+<i>🌾 Your support and feedback motivate us to keep building innovative solutions for a smarter agricultural future. 🚜💚</i>
+
+<br>
+
+<i>✨ Thank you for supporting our work! ✨</i>
+
+<br>
+
+<b>— Author: Mausam Kumar 👨‍💻</b>
+
+</div>
