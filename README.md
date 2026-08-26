@@ -125,7 +125,7 @@ Problem Solving • Error Fixing</sub>
 
 <td align="center" width="33%">
 
-<h3>🎨 Mishti Gupta</h3>
+<h3>🎨 Misthi Gupta</h3>
 
 <b>PPT & Presentation</b>
 
