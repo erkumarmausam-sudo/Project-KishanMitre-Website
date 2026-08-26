@@ -82,15 +82,17 @@ Our team worked together across:
 
 <div align="center">
 
+<div align="center">
+
 # 👥 Team & Contributions
 
 ### 🌾 KishanMitre — Smart India Hackathon (SIH)
 
-<p>
-  <b>A Collaborative Team Project</b>
-  <br>
-  <i>Innovation • Research • Development • Coordination • Problem Solving</i>
-</p>
+**A Collaborative Team Project**
+
+*Innovation • Research • Development • Coordination • Problem Solving*
+
+<br>
 
 <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-SIH-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Project-KishanMitre-green?style=for-the-badge" />
@@ -106,18 +108,18 @@ KishanMitre was developed as a **collaborative team project for the Smart India 
 
 The project involved collective efforts across:
 
-<p align="center">
+<div align="center">
 
-💡 **Ideation** &nbsp; • &nbsp;
-🔎 **Research** &nbsp; • &nbsp;
-🖥️ **Development** &nbsp; • &nbsp;
-📊 **Analysis** &nbsp; • &nbsp;
-🎨 **Presentation** &nbsp; • &nbsp;
-🧪 **Testing** &nbsp; • &nbsp;
-🐞 **Error Fixing** &nbsp; • &nbsp;
+💡 **Ideation**   •  
+🔎 **Research**   •  
+🖥️ **Development**   •  
+📊 **Analysis**   •  
+🎨 **Presentation**   •  
+🧪 **Testing**   •  
+🐞 **Error Fixing**   •  
 🤝 **Coordination**
 
-</p>
+</div>
 
 Each member contributed a specific skill set that helped transform the initial concept into a **functional agricultural market-intelligence platform** designed to help farmers make smarter decisions about **crop prices, mandi selection, market trends, forecasting, and net returns**. 🌾🚜
 
@@ -131,17 +133,11 @@ Each member contributed a specific skill set that helped transform the initial c
 
 <h2>👨‍💻 Mausam Kumar</h2>
 
-<p>
-<b>🏆 Team Leader</b><br>
-<b>🔄 Workflow Coordinator</b><br>
-<b>💻 Website Developer</b>
-</p>
+<b>🏆 Team Leader</b><br> <b>🔄 Workflow Coordinator</b><br> <b>💻 Website Developer</b>
 
 <hr>
 
-<p>
 Led the overall project workflow and coordinated team activities throughout the development process.
-</p>
 
 <ul>
 <li>🖥️ Developed the website</li>
@@ -158,17 +154,11 @@ Led the overall project workflow and coordinated team activities throughout the 
 
 <h2>💡 Harsh Partap Singh Rajawat</h2>
 
-<p>
-<b>💡 Main Idea Contributor</b><br>
-<b>🤝 Team Coordinator</b><br>
-<b>🛠️ Problem Solver</b>
-</p>
+<b>💡 Main Idea Contributor</b><br> <b>🤝 Team Coordinator</b><br> <b>🛠️ Problem Solver</b>
 
 <hr>
 
-<p>
 Contributed the main project idea and supported the team throughout the development and coordination process.
-</p>
 
 <ul>
 <li>💡 Contributed the main project idea</li>
@@ -187,16 +177,11 @@ Contributed the main project idea and supported the team throughout the developm
 
 <h2>🎨 Mishti Gupta</h2>
 
-<p>
-<b>🎨 PPT Maker</b><br>
-<b>📊 Presentation Contributor</b>
-</p>
+<b>🎨 PPT Maker</b><br> <b>📊 Presentation Contributor</b>
 
 <hr>
 
-<p>
 Responsible for preparing and designing the project's presentation and helping communicate the solution effectively.
-</p>
 
 <ul>
 <li>📑 Designed the project PPT</li>
@@ -213,16 +198,11 @@ Responsible for preparing and designing the project's presentation and helping c
 
 <h2>👩‍💻 Manya Gupta</h2>
 
-<p>
-<b>🔎 Website Researcher</b><br>
-<b>🌐 Website Coordinator</b>
-</p>
+<b>🔎 Website Researcher</b><br> <b>🌐 Website Coordinator</b>
 
 <hr>
 
-<p>
 Contributed to website research, planning, coordination, and organization during project development.
-</p>
 
 <ul>
 <li>🔎 Conducted website research</li>
@@ -241,16 +221,11 @@ Contributed to website research, planning, coordination, and organization during
 
 <h2>📚 Gaurav Saha</h2>
 
-<p>
-<b>🔎 Content Researcher</b><br>
-<b>📋 Details Provider</b>
-</p>
+<b>🔎 Content Researcher</b><br> <b>📋 Details Provider</b>
 
 <hr>
 
-<p>
 Supported the project through research, information gathering, and providing important details required for development.
-</p>
 
 <ul>
 <li>🔎 Conducted content research</li>
@@ -267,16 +242,11 @@ Supported the project through research, information gathering, and providing imp
 
 <h2>🔍 Harsh Negi</h2>
 
-<p>
-<b>🔎 Content Researcher</b><br>
-<b>🐞 Error Finder</b>
-</p>
+<b>🔎 Content Researcher</b><br> <b>🐞 Error Finder</b>
 
 <hr>
 
-<p>
 Focused on content research, information verification, error identification, and improving the overall quality of the project.
-</p>
 
 <ul>
 <li>🔎 Researched project content</li>
@@ -298,6 +268,8 @@ Focused on content research, information verification, error identification, and
 <div align="center">
 
 ### 🚀 From Idea to Working Prototype
+
+</div>
 
 ```text
                          💡 MAIN IDEA
@@ -329,5 +301,74 @@ Focused on content research, information verification, error identification, and
                               ▼
                        🤝 COORDINATION
                               │
+                              ▼
+                    🚀 FINAL SIH PROJECT
+```
+
+---
+
+## 🌟 Our Combined Contribution
+
+The KishanMitre project represents the **combined effort of all six team members**.
+
+<div align="center">
+
+| Area                  | Team Contribution                                          |
+| --------------------- | ---------------------------------------------------------- |
+| 💡 **Ideation**       | Initial project concept and proposed agricultural solution |
+| 🔎 **Research**       | Website, content, market and project research              |
+| 🖥️ **Development**   | Website design, development and workflow implementation    |
+| 📊 **Analysis**       | Market information, trends and project details             |
+| 🎨 **Presentation**   | PPT design and project presentation preparation            |
+| 🧪 **Testing**        | Testing, verification and quality checking                 |
+| 🐞 **Error Handling** | Error identification, debugging and improvements           |
+| 🤝 **Coordination**   | Team workflow and project coordination                     |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🇮🇳 Smart India Hackathon — SIH
+
+### 🌾 KISHANMITRE
+
+**Smart India Hackathon (SIH) Project**
+
+<br>
+
+<img src="https://img.shields.io/badge/💡-Innovation-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/🌾-Agriculture-green?style=flat-square" />
+<img src="https://img.shields.io/badge/🤖-Technology-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/🤝-Teamwork-purple?style=flat-square" />
+
+<br><br>
+
+*“Together, we transformed an idea into a technology-driven solution for smarter agricultural decision-making.”*
+
+</div>
+
+---
+
+# 🌱 Our Mission
+
+<div align="center">
+
+### 🌾 Make agricultural market intelligence
+
+## **simpler • smarter • more accessible**
+
+### **and more useful for farmers.**
+
+<br>
+
+🚜 **Built with teamwork.**
+💡 **Built with innovation.**
+🇮🇳 **Built for Smart India Hackathon.**
+🌾 **Built with farmers in mind.**
+
+</div>
+
                               ▼
                     🚀 FINAL SIH PROJECT
