@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Domain-Agriculture%20Tech-green?style=for-the-badge" alt="Agriculture Tech"/>
   <img src="https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge" alt="Prototype"/>
 </p>
-
+  
 <p align="center">
   <b>🌱 Empowering Farmers with Better Market Intelligence</b>
 </p>
