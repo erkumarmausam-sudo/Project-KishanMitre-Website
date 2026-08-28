@@ -22,7 +22,7 @@
 </p>
 
 ---
-
+   
 ## 🌾 About KishanMitre
 
 **KishanMitre** is a **farmer-first agricultural market intelligence platform** developed as a **team project for the Smart India Hackathon (SIH)**.
