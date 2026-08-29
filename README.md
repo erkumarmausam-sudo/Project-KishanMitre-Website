@@ -197,7 +197,7 @@ Testing & Quality Improvement</sub>
 <br>
 <div align="center">
 ⭐ If you find this project helpful, please consider giving it a star! ⭐
-
+<br><br>
 <i>🌾 Your support and feedback motivate us to keep building innovative solutions for a smarter agricultural future. 🚜💚</i>
 
 <br>
