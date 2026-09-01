@@ -1,5 +1,5 @@
 # 🌾 KishanMitre — Smart Crop Price & Mandi Intelligence
-
+   
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-SIH%20Project-orange?style=for-the-badge&logo=india" alt="SIH Project"/>
   <img src="https://img.shields.io/badge/Project-KishanMitre-success?style=for-the-badge" alt="KishanMitre"/>
