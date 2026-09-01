@@ -52,7 +52,7 @@ KishanMitre was developed as a **team-based solution for the Smart India Hackath
 The project addresses a real-world agricultural challenge:
 
 > **How can technology help farmers make better crop-selling and mandi-selection decisions?**
-
+  
 Our team worked together across:
 
 💡 Ideation
