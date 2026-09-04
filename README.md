@@ -31,6 +31,7 @@ The project focuses on helping farmers make smarter and more informed decisions 
 > 🏪 **Where to sell?**  
 > 💰 **How to maximize net returns?**
 
+
 KishanMitre combines **historical crop-price analysis, AI-based price forecasting, demand and market signals, mandi comparison, transportation-cost estimation, anomaly alerts, and bilingual guidance** into a single farmer-friendly platform.
 
 
