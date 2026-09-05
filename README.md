@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <b>🌱 Empowering Farmers with Better Market Intelligence</b>
-</p>
+</p>  
 <p align="center">
   <i>"Sell at the right time. Sell at the right mandi."</i>
 </p>
