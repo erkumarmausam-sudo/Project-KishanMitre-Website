@@ -1,5 +1,5 @@
 # 🌾 KishanMitre — Smart Crop Price & Mandi Intelligence
-   
+
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-SIH%20Project-orange?style=for-the-badge&logo=india" alt="SIH Project"/>
   <img src="https://img.shields.io/badge/Project-KishanMitre-success?style=for-the-badge" alt="KishanMitre"/>
@@ -47,7 +47,6 @@ KishanMitre combines **historical crop-price analysis, AI-based price forecastin
 </p>
 
 ---
-
 # 🇮🇳 Smart India Hackathon — SIH
 
 KishanMitre was developed as a **team-based solution for the Smart India Hackathon (SIH)**.
@@ -58,25 +57,25 @@ The project addresses a real-world agricultural challenge:
   
 Our team worked together across:
 
-💡 Ideation
+ Ideation
    ↓
-🔎 Research
+ Research
    ↓
-🧠 Solution Planning
+ Solution Planning
    ↓
-🖥️ Website Development
+ Website Development
    ↓
-📊 Feature Development
+ Feature Development
    ↓
-📝 Content Creation
+ Content Creation
    ↓
-🎨 Presentation Design
+ Presentation Design
    ↓
-🧪 Testing
+ Testing
    ↓
-🐞 Error Identification & Fixing
+ Error Identification & Fixing
    ↓
-🚀 Final Prototype
+ Final Prototype
 
 
 <div align="center">
